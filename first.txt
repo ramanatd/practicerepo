@@ -1,2 +1,2 @@
-this is text file
+this is text changed locally
 this is for status check
