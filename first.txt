@@ -1,2 +1,2 @@
-this is text file
+this is text changed on github
 this is for status check
