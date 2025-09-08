@@ -7,3 +7,4 @@ this is for status check
 >>>>>>> b7a2ce63e1cbac4ae54efb6c379a1c0911ae34e1
 this is remote change from github
 this is a new line in feature1 branch
+change made in github(remote)
